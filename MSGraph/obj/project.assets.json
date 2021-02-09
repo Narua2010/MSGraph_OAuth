@@ -126,11 +126,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Github\\MSGraph\\MSGraph.csproj",
+      "projectUniqueName": "D:\\Github\\MSGraph_OAuth\\MSGraph\\MSGraph.csproj",
       "projectName": "MSGraph",
-      "projectPath": "D:\\Github\\MSGraph\\MSGraph.csproj",
+      "projectPath": "D:\\Github\\MSGraph_OAuth\\MSGraph\\MSGraph.csproj",
       "packagesPath": "C:\\Users\\Patrick\\.nuget\\packages\\",
-      "outputPath": "D:\\Github\\MSGraph\\obj\\",
+      "outputPath": "D:\\Github\\MSGraph_OAuth\\MSGraph\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Patrick\\AppData\\Roaming\\NuGet\\NuGet.Config",

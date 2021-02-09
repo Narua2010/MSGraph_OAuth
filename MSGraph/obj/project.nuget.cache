@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UXVBnrOs53SbdrL+n0gSi65vdvZ+Z0z496lHkrg8NhGYGYvAYPanOEUgYO2YJ1l8uxi24z2a0iXn1CCrdsntug==",
+  "dgSpecHash": "sJtMmBMfBhZjNhY/WboWHv+ZZeOdeL/oyzwhLYuz+biqkF5YerhdvemxMlMwwzLuh8L/8G1oC/GoOsK6WnkxzQ==",
   "success": true,
-  "projectFilePath": "D:\\Github\\MSGraph\\MSGraph.csproj",
+  "projectFilePath": "D:\\Github\\MSGraph_OAuth\\MSGraph\\MSGraph.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Patrick\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
     "C:\\Users\\Patrick\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
