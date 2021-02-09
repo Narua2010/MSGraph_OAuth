@@ -1,0 +1,12 @@
+D:\Github\MSGraph\bin\Debug\net5.0\MSGraph.deps.json
+D:\Github\MSGraph\bin\Debug\net5.0\MSGraph.dll
+D:\Github\MSGraph\bin\Debug\net5.0\ref\MSGraph.dll
+D:\Github\MSGraph\bin\Debug\net5.0\MSGraph.pdb
+D:\Github\MSGraph\obj\Debug\net5.0\MSGraph.csprojAssemblyReference.cache
+D:\Github\MSGraph\obj\Debug\net5.0\MSGraph.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\MSGraph\obj\Debug\net5.0\MSGraph.AssemblyInfoInputs.cache
+D:\Github\MSGraph\obj\Debug\net5.0\MSGraph.AssemblyInfo.cs
+D:\Github\MSGraph\obj\Debug\net5.0\MSGraph.csproj.CoreCompileInputs.cache
+D:\Github\MSGraph\obj\Debug\net5.0\MSGraph.dll
+D:\Github\MSGraph\obj\Debug\net5.0\ref\MSGraph.dll
+D:\Github\MSGraph\obj\Debug\net5.0\MSGraph.pdb
